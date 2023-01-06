@@ -1,7 +1,7 @@
 # Restaurant aplication manager
 
 This is Backend part of the project.
-To see frontend part of the project - https://github.com/MartynasGit/school_application_fe
+To see frontend part of the project - https://github.com/MindaugasPaskevicius/restaurant-backend.git
 Project will run if both frontend and back end parts are started.
 
 ### About project
@@ -21,7 +21,7 @@ Project will run if both frontend and back end parts are started.
 ### Launching Back_End part
 
 Clone backend part repository.
-git clone https://github.com/MartynasGit/school_application_be.git
+git clone https://github.com/MindaugasPaskevicius/restaurant-backend.git
 
 For project to run we need PHP interpreter(XAMPP), MySQL Workbench.
 - Run Xaamp MYSQL module.
